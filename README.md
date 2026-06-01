@@ -179,4 +179,4 @@ pip install psutil pywin32 pycaw comtypes
 
 ## License
 
-Part of [cheap_yellow_display](https://github.com/emad555/cheap_yellow_display). MIT.
+Part of [-CYD-2432S028R-controlPC](https://github.com/wewe97z/-CYD-2432S028R-controlPC/edit/main/README.md). MIT.
