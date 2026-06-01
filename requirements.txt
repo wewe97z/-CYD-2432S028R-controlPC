@@ -1,0 +1,16 @@
+# ControlPC Ultimate v2.0 — Python dependencies
+# Core (required)
+pyserial>=3.5
+
+# System stats (strongly recommended)
+psutil>=5.9
+
+# Media key injection
+pywin32>=306
+
+# Volume control
+pycaw>=20240210
+comtypes>=1.4
+
+# JSON (stdlib in Python 3 — listed for documentation)
+# json (built-in)
