@@ -179,4 +179,4 @@ pip install psutil pywin32 pycaw comtypes
 
 ## License
 
-Part of [-CYD-2432S028R-controlPC](https://github.com/wewe97z/-CYD-2432S028R-controlPC/edit/main/README.md). MIT.
+Part of [-CYD-2432S028R-controlPC](https://github.com/wewe97z/-CYD-2432S028R-controlPC/tree/main). MIT.
