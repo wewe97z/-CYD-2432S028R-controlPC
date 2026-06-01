@@ -1,5 +1,6 @@
-<a href='https://postimg.cc/w1zr2nsW' target='_blank'><img src='https://i.postimg.cc/QdKr83Nr/Chat-GPT-Image-1-ywnyw-2026-09-30-38-m.png' border='0' alt='Chat-GPT-Image-1-ywnyw-2026-09-30-38-m'></a>
-
+<p align="center">
+  <img src="https://i.postimg.cc/YMb2xrJj/Chat-GPT-Image-1-ywnyw-2026-09-30-38-m.png" width="800"/>
+</p>
 
 # ControlPC Ultimate v2.0
 
