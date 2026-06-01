@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/YMb2xrJj/Chat-GPT-Image-1-ywnyw-2026-09-30-38-m.png" width="800"/>
+  <img src="https://i.postimg.cc/9Qm9RCg8/Gemini-Generated-Image-bv7cxebv7cxebv7c.png" width="800"/>
 </p>
 
 # ControlPC Ultimate v2.0
