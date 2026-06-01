@@ -1,3 +1,6 @@
+<a href='https://postimg.cc/w1zr2nsW' target='_blank'><img src='https://i.postimg.cc/QdKr83Nr/Chat-GPT-Image-1-ywnyw-2026-09-30-38-m.png' border='0' alt='Chat-GPT-Image-1-ywnyw-2026-09-30-38-m'></a>
+
+
 # ControlPC Ultimate v2.0
 
 A full **Desktop Companion System** for the **ESP32-2432S028R (Cheap Yellow Display)**.
