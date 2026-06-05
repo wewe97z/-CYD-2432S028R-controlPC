@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.postimg.cc/9Qm9RCg8/Gemini-Generated-Image-bv7cxebv7cxebv7c.png" width="800"/>
-</p>
+<img src="banner.png" width="900">
 
 # ControlPC Ultimate v2.0
 
